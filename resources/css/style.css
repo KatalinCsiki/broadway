@@ -4,10 +4,12 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: black;
+  text-align: center;
 }
 .menu {
   font-size: 18px;
   color: black;
+  text-align: center;
 }
 h2 {
   font-size: 32px;
@@ -23,5 +25,5 @@ p {
 h2,
 h3,
 p {
-  color: gray;
+  color: gray; text-align: center;
 }
